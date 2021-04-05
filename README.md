@@ -1,3 +1,3 @@
-# IMAGE DENOISING WITH AUTOENCODERS
-Neural Networks
+# Using TPOT vs conventional classification algorithms for Telecommunication Churn Prediction
+
 
